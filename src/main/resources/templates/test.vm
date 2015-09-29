@@ -1,0 +1,3 @@
+<h1>我是引入的</h1>
+#set($name="引入的名字")
+<small>$name</small>
